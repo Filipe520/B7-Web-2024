@@ -3,7 +3,7 @@ console.log('-=-'.repeat(10), 'Manipulando elementos 2', '-=-'.repeat(10));
 let teste_03 = document.querySelector('#teste-03');
 let ul = teste_03.querySelector('ul');
 let botao = teste_03.querySelector('button');
-let newLi = document.createElement('li');
+let newLi = document.createElement('li')
 //newLi.innerText = 'Novo item li'
 
 /*
